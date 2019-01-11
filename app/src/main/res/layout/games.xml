@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/a1"
+                android:layout_width="20dp"
+                android:src="@drawable/pegslot"
+                android:layout_height="20dp" />
+
+            <ImageView
+                android:id="@+id/a2"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:src="@drawable/pegslot"
+                android:layout_toEndOf="@+id/a1"
+                android:layout_toRightOf="@+id/a1" />
+
+            <ImageView
+                android:id="@+id/a3"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/pegslot"
+                android:layout_toRightOf="@+id/a2" />
+
+            <ImageView
+                android:id="@+id/a4"
+                android:src="@drawable/pegslot"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_below="@+id/a1"
+
+                />
+
+            <ImageView
+                android:id="@+id/a11"
+                android:src="@drawable/pegslot"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_below="@+id/a1"
+                android:layout_toRightOf="@+id/a4" />
+
+            <ImageView
+                android:id="@+id/a12"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/pegslot"
+                android:layout_below="@+id/a1"
+                android:layout_toRightOf="@+id/a11"
+
+                />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3">
+
+            <ImageView
+                android:id="@+id/a5"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:src="@drawable/pegslot" />
+
+            <ImageView
+                android:id="@+id/a6"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:src="@drawable/pegslot" />
+
+            <ImageView
+                android:id="@+id/a7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:src="@drawable/pegslot" />
+
+            <ImageView
+                android:id="@+id/a8"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:src="@drawable/pegslot" />
+
+            <ImageView
+                android:id="@+id/a9"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:src="@drawable/pegslot" />
+
+            <ImageView
+                android:id="@+id/a10"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:src="@drawable/pegslot" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/bb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Code"
+        android:visibility="gone" />
+</LinearLayout>

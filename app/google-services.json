@@ -1,0 +1,311 @@
+{
+  "project_info": {
+    "project_number": "483799312884",
+    "firebase_url": "https://quotes-99653.firebaseio.com",
+    "project_id": "quotes-99653",
+    "storage_bucket": "quotes-99653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483799312884:android:ff01bc865ce98c6b",
+        "android_client_info": {
+          "package_name": "com.example.keeprawteach.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483799312884-tn4640lslui6uvmjspmlb861qnottnbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keeprawteach.quotes",
+            "certificate_hash": "6dcf1628392b740ab2808154f0ca03057f3b76b8"
+          }
+        },
+        {
+          "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpnsOepZBn1k3pHrAVXiutzGJrDGdzFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483799312884:android:f232ef16fb233e8b",
+        "android_client_info": {
+          "package_name": "com.example.keeprawteach.status"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483799312884-mp0otj31fav5b4h7g6v67nkld4e1o99v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keeprawteach.status",
+            "certificate_hash": "6dcf1628392b740ab2808154f0ca03057f3b76b8"
+          }
+        },
+        {
+          "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpnsOepZBn1k3pHrAVXiutzGJrDGdzFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483799312884:android:7f2d630af6c4bb22",
+        "android_client_info": {
+          "package_name": "com.example.keeprawteach.xeroupdater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpnsOepZBn1k3pHrAVXiutzGJrDGdzFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483799312884:android:2a2a1504a885063e",
+        "android_client_info": {
+          "package_name": "com.imejadevs.mastermind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpnsOepZBn1k3pHrAVXiutzGJrDGdzFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483799312884:android:0e26397f6a91be0a",
+        "android_client_info": {
+          "package_name": "com.keeprawteach.brand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483799312884-bcufah10ktcavubopqe3pbgbeff6mbpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keeprawteach.brand",
+            "certificate_hash": "be487790a3cceba2b9d85949b762e9f6eb5bc577"
+          }
+        },
+        {
+          "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpnsOepZBn1k3pHrAVXiutzGJrDGdzFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483799312884:android:0d709062915ba180",
+        "android_client_info": {
+          "package_name": "com.keeprawteach.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpnsOepZBn1k3pHrAVXiutzGJrDGdzFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483799312884:android:a4d276fa7637e75e",
+        "android_client_info": {
+          "package_name": "com.keeprawteach.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483799312884-r2j4s5sgsofngv75ndhfktr843mb9bj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keeprawteach.free",
+            "certificate_hash": "be487790a3cceba2b9d85949b762e9f6eb5bc577"
+          }
+        },
+        {
+          "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpnsOepZBn1k3pHrAVXiutzGJrDGdzFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483799312884:android:a2239137bd0d6ac9",
+        "android_client_info": {
+          "package_name": "com.keeprawteach.zero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483799312884-0eik2rlvj9j6pi53p6b2886jrhu5mou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpnsOepZBn1k3pHrAVXiutzGJrDGdzFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
